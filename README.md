@@ -8,11 +8,11 @@ I am a self-taught Backend developer from Argentina.
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/lucaspulliese/lucaspulliese">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspulliese&hide=html" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcemarin&hide=html" alt="Most used languages" />
 </a>
 
 <a href="https://github.com/lucaspulliese/lucaspulliese">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspulliese&show_icons=true&line_height=27&count_private=true" alt="Marcelo Marin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcemarin&show_icons=true&line_height=27&count_private=true" alt="Marcelo Marin's GitHub Stats" />
 </a>
 
 ## 📇 Useful Links
