@@ -1,18 +1,16 @@
-### Hi there 👋
+## Marcelo Marin
 
-I am a self-taught Backend developer from Argentina.
+Senior / Lead PHP engineer from Posadas, Argentina. Ten years of PHP, six with Laravel, mostly on high-volume messaging systems: queues, webhooks, large MySQL and PostgreSQL tables, AWS. For the past two years I have also been shipping LLM features to production — tool calling, MCP servers, agents that wrap existing APIs — and I use Claude Code every day.
 
-- 🔭 I’m currently working at [Flydevs](https://www.flydevs.com/). 
-- 💪 My main frameworks and languages are Laravel, Java and PHP.
+**Currently:** backend lead at a WhatsApp CRM and marketing automation SaaS for Latin America.
 
-## &#x1f4c8; My GitHub Stats
+### Things you can read
 
-<a href="https://github.com/lucaspulliese/lucaspulliese">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcemarin&show_icons=true&line_height=27&count_private=true" alt="Marcelo Marin's GitHub Stats" />
-</a>
+- **[radio-chat](https://github.com/marcemarin/radio-chat)** — live production room for radio shows. WhatsApp voice notes are transcribed, classified by an LLM through tool calling and streamed to a real-time on-air board. Laravel 13, Horizon, Reverb, PostgreSQL + pgvector, React.
+- **[boost](https://github.com/marcemarin/boost)** — my fork of Laravel Boost (Laravel's MCP server for AI-assisted development) adding generic Docker support without Sail.
 
-## 📇 Useful Links
+### Stack
 
-<p align='left'>
-<a target="_blank" href="https://www.linkedin.com/in/marcelo-marin-754b2bb6/"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/linkedin.png?raw=true" alt="Linkedin logo"></a>&nbsp;&nbsp;
-</p>
+PHP 8, Laravel, MySQL, PostgreSQL, Redis, AWS (Lambda, SQS, Aurora), Docker · Go and Python/FastAPI where they fit · React/TypeScript · Anthropic and OpenAI APIs, MCP
+
+[LinkedIn](https://www.linkedin.com/in/marcelo-marin-salvagiot) · marcelo.marin.salvagiot@gmail.com
