@@ -2,7 +2,7 @@
 
 Senior / Lead PHP engineer from Posadas, Argentina. Ten years of PHP, six with Laravel, mostly on high-volume messaging systems: queues, webhooks, large MySQL and PostgreSQL tables, AWS. For the past two years I have also been shipping LLM features to production — tool calling, MCP servers, agents that wrap existing APIs — and I use Claude Code every day.
 
-**Currently:** backend lead at a WhatsApp CRM and marketing automation SaaS for Latin America.
+**Most recently:** backend lead at a WhatsApp CRM and marketing automation SaaS for Latin America.
 
 ### Things you can read
 
