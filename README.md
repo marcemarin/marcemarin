@@ -7,7 +7,7 @@ Senior / Lead PHP engineer from Posadas, Argentina. Ten years of PHP, six with L
 ### Things you can read
 
 - **[radio-chat](https://github.com/marcemarin/radio-chat)** — live production room for radio shows. WhatsApp voice notes are transcribed, classified by an LLM through tool calling and streamed to a real-time on-air board. Laravel 13, Horizon, Reverb, PostgreSQL + pgvector, React.
-- **[typesafe-laravel](https://github.com/marcemarin/typesafe-laravel)** — the first PHP/Laravel SDK for TypeSafe AI's decision model: typed choice, score and yes/no questions with calibrated probabilities, a validation rule, and `Http::fake()`-style testing. PHPStan level 8, 235 tests.
+- **[typesafe-laravel](https://github.com/marcemarin/typesafe-laravel)** — a Laravel-native SDK for TypeSafe AI's decision model: typed choice, score and yes/no questions with calibrated probabilities, a validation rule, and `Http::fake()`-style testing. PHPStan level 8, 235 tests.
 - **[boost](https://github.com/marcemarin/boost)** — my fork of Laravel Boost (Laravel's MCP server for AI-assisted development) adding generic Docker support without Sail.
 
 ### Stack
